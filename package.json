@@ -2,7 +2,7 @@
   "name": "NodeTssting",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node dist/app.js",
     "start:dev": "ts-node-dev --respawn --transpile-only src/app.ts",
